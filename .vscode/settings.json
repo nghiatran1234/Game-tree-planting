@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Game-3D-nang-cao.sln"
+    "dotnet.defaultSolution": "Game-trong-cay.sln"
 }
