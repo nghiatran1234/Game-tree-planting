@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 1817549424727377014}
   - component: {fileID: 4387398463721751292}
   - component: {fileID: 1589634338724501057}
-  - component: {fileID: 2926846637169869584}
   - component: {fileID: 3870619607709568762}
   - component: {fileID: 4831113431723613539}
   m_Layer: 0
@@ -108,20 +107,6 @@ MonoBehaviour:
   TileSize: 1
   ShowDebug: 1
   RealtimeUpdates: 0
---- !u!114 &2926846637169869584
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6532542551184020838}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1dd31d86a9e456b40b1e3abed485c0a7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerInRange: 1
-  hydrationAmount: 30
 --- !u!65 &3870619607709568762
 BoxCollider:
   m_ObjectHideFlags: 0
